@@ -15,7 +15,8 @@ public class App {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Primeiro teste com git");
+        System.out.println("Primeiro teste com git v1.0");
+        System.out.println("Primeiro teste com git v2.0");
     }
     
 }
